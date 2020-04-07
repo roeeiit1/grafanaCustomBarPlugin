@@ -1,0 +1,28 @@
+{
+  "type": "panel",
+  "name": "Custom Bar Panel",
+  "id": "bar-graph",
+
+  "dataFormats": ["table"],
+
+  "info": {
+    "description": "Bar graphs with non time based x",
+    "author": {
+      "name": "Roeei",
+      "url": "https://grafana.com"
+    },
+    "logos": {
+      "small": "img/bar-graph.svg",
+      "large": "img/bar-graph.svg"
+    },
+    "keywords": ["bar Panel"],
+    "links": [],
+    "screenshots": [],
+    "version": "0.2.0",
+    "updated": "2020-04-07"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.0.x",
+    "plugins": []
+  }
+}
